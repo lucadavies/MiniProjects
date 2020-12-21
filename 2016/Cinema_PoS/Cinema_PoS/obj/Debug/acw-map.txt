@@ -1,0 +1,4 @@
+Cinema_PoS.MainActivity, Cinema_PoS;md53b0df0dde0677fc4a750440d4fab7fcc.MainActivity
+Cinema_PoS.MainActivity, Cinema_PoS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53b0df0dde0677fc4a750440d4fab7fcc.MainActivity
+Cinema_PoS.MainActivity;md53b0df0dde0677fc4a750440d4fab7fcc.MainActivity
+cinema_pos.MainActivity;md53b0df0dde0677fc4a750440d4fab7fcc.MainActivity

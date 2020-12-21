@@ -1,0 +1,17 @@
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\FileMapper.exe.config
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\FileMapper.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\FileMapper.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.Properties.Resources.resources
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.csproj.GenerateResource.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.csproj.CopyComplete
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.FileMapper.resources
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.ErrorList.resources
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Debug\FileMapper.csprojAssemblyReference.cache

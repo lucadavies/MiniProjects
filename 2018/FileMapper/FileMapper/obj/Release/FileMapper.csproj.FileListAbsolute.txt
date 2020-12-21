@@ -1,0 +1,17 @@
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\FileMapper.exe.config
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\FileMapper.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\FileMapper.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.FileMapper.resources
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.Properties.Resources.resources
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.csproj.GenerateResource.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.csproj.CopyComplete
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\FileMapper\FileMapper\obj\Release\FileMapper.ErrorList.resources

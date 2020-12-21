@@ -1,0 +1,2 @@
+android.app.Application
+Cinema_PoS.Cinema_PoS

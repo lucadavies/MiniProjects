@@ -1,0 +1,13 @@
+c:\users\luca\documents\visual studio 2015\Projects\Text-to-Morse\Text-to-Morse\bin\Debug\Text-to-Morse.exe.config
+c:\users\luca\documents\visual studio 2015\Projects\Text-to-Morse\Text-to-Morse\obj\Debug\Text-to-Morse.csprojResolveAssemblyReference.cache
+c:\users\luca\documents\visual studio 2015\Projects\Text-to-Morse\Text-to-Morse\bin\Debug\Text-to-Morse.exe
+c:\users\luca\documents\visual studio 2015\Projects\Text-to-Morse\Text-to-Morse\bin\Debug\Text-to-Morse.pdb
+c:\users\luca\documents\visual studio 2015\Projects\Text-to-Morse\Text-to-Morse\obj\Debug\Text-to-Morse.exe
+c:\users\luca\documents\visual studio 2015\Projects\Text-to-Morse\Text-to-Morse\obj\Debug\Text-to-Morse.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\Text-to-Morse\Text-to-Morse\bin\Debug\Text-to-Morse.exe.config
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\Text-to-Morse\Text-to-Morse\bin\Debug\Text-to-Morse.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\Text-to-Morse\Text-to-Morse\bin\Debug\Text-to-Morse.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\Text-to-Morse\Text-to-Morse\obj\Debug\Text-to-Morse.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\Text-to-Morse\Text-to-Morse\obj\Debug\Text-to-Morse.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\Text-to-Morse\Text-to-Morse\obj\Debug\Text-to-Morse.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\Text-to-Morse\Text-to-Morse\obj\Debug\Text-to-Morse.pdb

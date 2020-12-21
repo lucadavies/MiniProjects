@@ -1,0 +1,13 @@
+c:\users\luca\documents\visual studio 2015\Projects\FileLister\FileLister\bin\Debug\FileLister.exe.config
+c:\users\luca\documents\visual studio 2015\Projects\FileLister\FileLister\bin\Debug\FileLister.exe
+c:\users\luca\documents\visual studio 2015\Projects\FileLister\FileLister\bin\Debug\FileLister.pdb
+c:\users\luca\documents\visual studio 2015\Projects\FileLister\FileLister\obj\Debug\FileLister.csprojResolveAssemblyReference.cache
+c:\users\luca\documents\visual studio 2015\Projects\FileLister\FileLister\obj\Debug\FileLister.exe
+c:\users\luca\documents\visual studio 2015\Projects\FileLister\FileLister\obj\Debug\FileLister.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\FileLister\FileLister\bin\Debug\FileLister.exe.config
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\FileLister\FileLister\bin\Debug\FileLister.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\FileLister\FileLister\bin\Debug\FileLister.pdb
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\FileLister\FileLister\obj\Debug\FileLister.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\FileLister\FileLister\obj\Debug\FileLister.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\FileLister\FileLister\obj\Debug\FileLister.exe
+C:\Users\Luca\Documents\Visual Studio 2017\Projects\Old\FileLister\FileLister\obj\Debug\FileLister.pdb
